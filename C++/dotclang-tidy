@@ -1,0 +1,8 @@
+---
+Checks: "-*,
+        modernize-*,
+        cppcoreguidelines-*
+"
+WarningsAsErrors: ''
+HeaderFilterRegex: ''
+FormatStyle:     none
