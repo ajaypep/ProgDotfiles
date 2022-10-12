@@ -1,7 +1,11 @@
 ---
 Checks: "-*,
-        modernize-*,
-        cppcoreguidelines-*
+    modernize-*,
+    cppcoreguidelines-*,
+    clang-analyzer-core*,
+    performance-*,
+    portability-*,
+    readability-*,
 "
 WarningsAsErrors: ''
 HeaderFilterRegex: ''
