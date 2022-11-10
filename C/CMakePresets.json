@@ -31,8 +31,7 @@
         "CMAKE_BUILD_TYPE": "Debug",
         "CMAKE_EXPORT_COMPILE_COMMANDS": true,
         "CMAKE_C_COMPILER": "gcc",
-        "CMAKE_C_COMPILER": "g++",
-        "CMAKE_C_FLAGS_INIT": "-Wall -Wextra -pedantic -Werror -Wshadow "
+        "CMAKE_C_FLAGS_INIT": "-Wall -Wextra -pedantic -Werror -Wshadow"
       }
     },
     {
@@ -47,7 +46,6 @@
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Debug",
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
-        "CMAKE_C_COMPILER": "cl",
         "CMAKE_C_COMPILER": "cl",
         "CMAKE_C_FLAGS_INIT": "/W4 /WX"
       }
