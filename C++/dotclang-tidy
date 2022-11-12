@@ -1,12 +1,17 @@
 ---
 Checks: "-*,
-    modernize-*,
     cppcoreguidelines-*,
+    -cppcoreguidelines-avoid-magic-numbers,
     clang-analyzer-core*,
     performance-*,
     portability-*,
+    modernize-*,
     readability-*,
+    -readability-magic-numbers,
+    -readability-identifier-length,
 "
+
+
 WarningsAsErrors: ''
 HeaderFilterRegex: ''
-FormatStyle:     none
+FormatStyle: none
