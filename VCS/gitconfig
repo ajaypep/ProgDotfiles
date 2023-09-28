@@ -2,6 +2,8 @@
 	editor = nvim
 [user]
 	name = Ajay K
+    email = 
+    signingKey = 
 [commit]
 	gpgSign = true
 [init]
