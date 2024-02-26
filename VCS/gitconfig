@@ -4,6 +4,8 @@
 	name = Ajay K
     email = 
     signingKey = 
+[init]
+	defaultBranch = main
 [commit]
 	gpgSign = true
 [init]
